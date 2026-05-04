@@ -27,11 +27,11 @@
     "vestimenta_icon": "9.svg",
     "galeria": [
       "gallery1.jpg",
-      "gallery2.jpg",
       "gallery3.jpg",
       "gallery4.jpg",
       "gallery5.jpg",
-      "gallery6.jpg"
+      "gallery6.jpg",
+      "gallery2.jpg"
     ]
   },
   "audio": {
@@ -124,8 +124,8 @@
         "lugar": "Dirección",
         "direccion": [
           "Calle Miraflores 5° Cerrada,",
-          "San Mateo Ixtacalco, Cuautitlán, México",
-          "54840"
+          "San Mateo Ixtacalco, Cuautitlán,",
+          "México CP. 54840"
         ],
         "mapa": "https://maps.app.goo.gl/cZ4mV3TD9tE194D68"
       },
