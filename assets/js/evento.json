@@ -84,7 +84,7 @@
   "hero": {
     "enabled": true,
     "names": {
-      "festejada": "XV Años Odeth Ocegueda"
+      "festejada": "XV Años Odeth Ocegueda De La Rosa García"
     },
     "countdown_labels": {
       "dias": "Días",
@@ -97,7 +97,7 @@
   "presentacion": {
     "enabled": true,
     "titulo": "Tengo el honor de invitarte a celebrar mis XV años",
-    "nombres": "ODETH OCEGUEDA",
+    "nombres": "ODETH OCEGUEDA DE LA ROSA GARCIA",
     "frase": "Con la bendición de Dios y en compañía de mis padres:",
     "padres": {
       "festejada": [
