@@ -97,15 +97,15 @@
   "presentacion": {
     "enabled": true,
     "titulo": "Tengo el honor de invitarte a celebrar mis XV años",
-    "nombres": "ODETH OCEGUEDA DE LA ROSA GARCIA",
+    "nombres": "ODETH OCEGUEDA DE LA ROSA GARCÍA",
     "frase": "Con la bendición de Dios y en compañía de mis padres:",
     "padres": {
       "festejada": [
-        "Maria Paulina De La Rosa Garcia",
+        "Maria Paulina De La Rosa García",
         "David Israel Ocegueda Razón"
       ]
     },
-    "padrinos": ["Maria Gabriela De la Rosa Garcia", "Adrian Romero Fuentes"],
+    "padrinos": ["Maria Gabriela De la Rosa García", "Adrián Romero Fuentes"],
     "texto_final": "Este día marca una nueva etapa en mi vida y me encantaría compartirlo contigo.",
     "labels": {
       "padres": "Mis Padres",
